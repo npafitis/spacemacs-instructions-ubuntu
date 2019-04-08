@@ -40,7 +40,6 @@ This could be a problem especially since Ubuntu 16.04 comes with version 24.4.
     sudo apt-get install gtkterm
     ```
 - After you have successfully ran ./configure run:
-    ---
     ```bash
     make
     make install
